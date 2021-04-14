@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/authorized.iml" filepath="$PROJECT_DIR$/.idea/authorized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../otus/react-js-tutorial/.idea/react-js-tutorial.iml" filepath="$PROJECT_DIR$/../../otus/react-js-tutorial/.idea/react-js-tutorial.iml" />
     </modules>
   </component>
 </project>
